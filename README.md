@@ -135,6 +135,24 @@ I enjoy understanding how software works from the operating system to distribute
 
 ---
 
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:mrishosalum608@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mrishosalum608%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mrisho-salum-b596a7212/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mrisho%20Salum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Node-Features">
+  <img src="https://img.shields.io/badge/GitHub-Node--Features-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
 # 2026 Goals
 
 * Build production-grade backend platforms
