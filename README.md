@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Mrisho Salum Banner" />
+</p>
+
 <div align="center">
 
 # Hi 👋 I'm **Mrisho Salum**
