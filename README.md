@@ -104,15 +104,14 @@ Designed and developed a production payment management system supporting real bu
 
 ---
 
-# Currently Learning
+# 🎯 Current Focus
 
-I'm continuously improving my understanding of:
-
-* Modern C++
-* Operating Systems
-* Computer Networks
-* Distributed Systems
-* High-Performance Backend Engineering
+- 🏗️ Backend Engineering
+- 🌐 Distributed Systems
+- 💳 Payment Infrastructure
+- 🤖 AI-Powered Business Automation
+- 🖥️ Modern C++
+- ⚡ Scalable System Design
 
 ---
 
